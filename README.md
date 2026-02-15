@@ -2,6 +2,8 @@
 
 Pequeno projeto de layout e animação de uma landing page de patins.
 
+<img width="1006" height="956" alt="image" src="https://github.com/user-attachments/assets/98f6537c-cdf6-4224-9e0c-e5076d4c0cdb" />
+
 ## Visualizar
 - Abra [index.html](index.html) no navegador
 - Ou rode um servidor local:
